@@ -2,7 +2,6 @@ var side1;
 var side2;
 var side3;
 
-
 var isTriangle = function(side1, side2, side3){
   if (defTriangle(side1, side2, side3)){
     console.log(typeTriangle(side1, side2, side3));
